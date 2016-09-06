@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A Child Could Do It</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E01 A child could do it</string>
+	</dict>
+	<key>Accessing Files</key>
+	<dict>
+		<key>File</key>
+		<string>accessingfiles</string>
+	</dict>
+	<key>SFX: Affirmative</key>
+	<dict>
+		<key>File</key>
+		<string>affiimative</string>
+	</dict>
+	<key>SFX: Alien Planet Surface</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Ambience</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>Alien Planet Surface</string>
+	</dict>
+	<key>Amok Time Fight Music</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>Music</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>music-rb</string>
+	</dict>
+	<key>Animals, Vicious and Seductive</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Guest</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E12 They&apos;re like animals-vicious, seductive</string>
+	</dict>
+	<key>SFX: Boatswain Whistle</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Communications</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Boatswain Whistle</string>
+	</dict>
+	<key>SFX: Bridge Buttons</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Bridge</string>
+		</array>
+		<key>File</key>
+		<string>Buttons on the Bridge</string>
+	</dict>
+	<key>SFX: Bridge Scanner</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Scanner</string>
+			<string>Bridge</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Bridge Scanner</string>
+	</dict>
+	<key>Chapel: For So Long</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Chapel</string>
+			<string>Love</string>
+			<string>Fairer Sex</string>
+			<string>Bridge Crew</string>
+		</array>
+		<key>File</key>
+		<string>S3E10 For so long I&apos;ve wanted to be close to you</string>
+	</dict>
+	<key>SFX: Computer Working</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Computer</string>
+		</array>
+		<key>File</key>
+		<string>tos-computer-working</string>
+	</dict>
+	<key>SFX: Bridge Sequence</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Bridge</string>
+			<string>Enterprise</string>
+			<string>Ambience</string>
+		</array>
+		<key>File</key>
+		<string>Ent. Bridge Sequence</string>
+	</dict>
+	<key>SFX: Enterprise Phasers</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Weapons</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Ent. Phasers Firing x3</string>
+	</dict>
+	<key>SFX: Garbled Message</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Communications</string>
+			<string>Technology</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>Garbled Radio Message</string>
+	</dict>
+	<key>Gorn: Weary of the Chase</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Alien</string>
+			<string>Emergency</string>
+			<string>Landing Party</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E18 I weary of the chase</string>
+	</dict>
+	<key>SFX: Hand Phaser</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Weapons</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>Hand Phaser2</string>
+	</dict>
+	<key>SFX: Heartbeats</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Heartbeats</string>
+	</dict>
+	<key>His Brain is Gone</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>S3E01 His brain is gone</string>
+	</dict>
+	<key>House Calls</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Emergency</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E02 I don&apos;t make housecalls</string>
+	</dict>
+	<key>Khan: My name is Khan</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Guest</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E22 My name is Khan</string>
+	</dict>
+	<key>Kirk and Krako: Arrested Behavior</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+			<string>Landing Party</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E17 No, I don&apos;t think you&apos;re stupid, Mr. Krako</string>
+	</dict>
+	<key>Kirk to Enterprise</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>File</key>
+		<string>ST 063 kirk to enterprise</string>
+	</dict>
+	<key>Kirk: Do You Read Me</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Kirk</string>
+			<string>Communications</string>
+		</array>
+		<key>File</key>
+		<string>kirk-scotty-do-you-read-lb</string>
+	</dict>
+	<key>Kirk: Kiss it!</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Scotty</string>
+			<string>Humor</string>
+			<string>Technology</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>S1E25 Kiss it! Baby it!</string>
+	</dict>
+	<key>Kirk: We Need Power</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Emergency</string>
+			<string>Kirk</string>
+			<string>Communications</string>
+		</array>
+		<key>File</key>
+		<string>kirk-scotty-we-need-power-lb</string>
+	</dict>
+	<key>Kirk: Space the Final Frontier</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+		</array>
+		<key>File</key>
+		<string>kirk-space-final-frontier-lb</string>
+	</dict>
+	<key>Kirk: The Captain&apos;s Woman</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E04 You&apos;re the captain&apos;s woman</string>
+	</dict>
+	<key>Kirk: The Women on your Planet</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E13 Mr. Spock, the women on your planet are logical</string>
+	</dict>
+	<key>Kirk: Too Beautiful to Ignore</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E05 You&apos;re too beautiful to ignore</string>
+	</dict>
+	<key>Kirk: Two to beam Up</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Communication</string>
+			<string>Transporter</string>
+		</array>
+		<key>File</key>
+		<string>ST 055 two to beam up scotty-1</string>
+	</dict>
+	<key>Kirk: Prepare to Transport</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Transporter</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 Prepare to transport</string>
+	</dict>
+	<key>Klingons Kill</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Aliens</string>
+			<string>Klingons</string>
+		</array>
+		<key>File</key>
+		<string>S3E07 Klingons kill for their own purposes</string>
+	</dict>
+	<key>SFX: Materialization</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Transporter</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Materialization</string>
+	</dict>
+	<key>McCoy and Scotty: Not an Engineer</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E04 I&apos;m a doctor, not an engineer</string>
+	</dict>
+	<key>McCoy and Scotty: One Good Slug</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Humor</string>
+			<string>Bridge Crew</string>
+		</array>
+		<key>File</key>
+		<string>S3E09 One good slug of this</string>
+	</dict>
+	<key>McCoy: Crazy Way to Travel</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Technology</string>
+			<string>Humor</string>
+			<string>Transporter</string>
+		</array>
+		<key>File</key>
+		<string>S2E13 Crazy way to travel</string>
+	</dict>
+	<key>McCoy: He&apos;s dead Jim</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+		</array>
+		<key>File</key>
+		<string>ST 036 he&apos;s dead jim-1</string>
+	</dict>
+	<key>McCoy: Not a Bricklayer</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E25 I&apos;m a doctor, not a bricklayer</string>
+	</dict>
+	<key>McCoy: Not a Coal Miner</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E12 I&apos;m a doctor, not a coal miner</string>
+	</dict>
+	<key>McCoy: Not a Mechanic</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E06 I&apos;m a doctor, not a mechanic</string>
+	</dict>
+	<key>McCoy: Not a psychiatrist</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E28 I&apos;m a surgeon, not a psychatrist</string>
+	</dict>
+	<key>McCoy: Transporter Phobia</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Technology</string>
+			<string>Humor</string>
+			<string>Transporter</string>
+		</array>
+		<key>File</key>
+		<string>S1E22 I signed aboard this ship to practice medicine, not have my atoms scattered</string>
+	</dict>
+	<key>Mudd</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Guest</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string></string>
+	</dict>
+	<key>Old Country Doctor</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E12 i&apos;m not a magician</string>
+	</dict>
+	<key>SFX: Phaser Fire Switch</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Weapons</string>
+			<string>Bridge</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Phaser Fire Switch</string>
+	</dict>
+	<key>SFX: Photon Torpedos</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Weapons</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Photon Torpedoes x3</string>
+	</dict>
+	<key>SFX: Red Alert</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>red-alert-rb</string>
+	</dict>
+	<key>Red shirt: A strange woman..</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Emergency</string>
+			<string>Crew</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 Mr. Scott, there&apos;s a strange woman who knows the entire plan of the Enterprise</string>
+	</dict>
+	<key>Kirk: Captain’s Log</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Captain&apos;s Log</string>
+		</array>
+		<key>File</key>
+		<string>Kirk-Captain&apos;s log, stardate unkown</string>
+	</dict>
+	<key>Spock: Emotion</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+			<string>Philosophy</string>
+		</array>
+		<key>File</key>
+		<string>ST 024 i am not capable of that</string>
+	</dict>
+	<key>Sulu: General Quarters</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Sulu</string>
+			<string>Emergency</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 006 general quarters 3</string>
+	</dict>
+	<key>Computer: Affirmative</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Computer</string>
+			<string>Enterprise</string>
+			<string>Technology</string>
+		</array>
+		<key>File</key>
+		<string>affiimative</string>
+	</dict>
+	<key>I’m Not a Magician</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>I&apos;m a doctor, not a...</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>ST 040 i&apos;m not a magician</string>
+	</dict>
+	<key>Kirk: Energize</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Communication</string>
+			<string>Transporter</string>
+		</array>
+		<key>File</key>
+		<string>ST 055 energize-1</string>
+	</dict>
+	<key>S2 McCoy:What in Blazes</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>ST 039 what in blazes is this-1</string>
+	</dict>
+	<key>Spock: Interesting</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>ST 039 i find it extremely</string>
+	</dict>
+	<key>Uhura: All Frequencies Jammed</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Communication</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 033 all frequencies are jammed-1</string>
+	</dict>
+	<key>Chekov: Aye Captain</key>
+	<dict>
+		<key>File</key>
+		<string>ST 061 aye captain-1</string>
+	</dict>
+	<key>Chekov: Aye Sir</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Chekov</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 aye sir-1</string>
+	</dict>
+	<key>Chekov: I Can’t Explain It</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Chekov</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 i cant explain it sir-1</string>
+	</dict>
+	<key>Chekov: Forty-three thousand</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Chekov</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 range forty three thousand</string>
+	</dict>
+	<key>Kirk Here</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Communication</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>ST 063 kirk here what is it enterprise-1</string>
+	</dict>
+	<key>Kirk To Enterprise</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Communication</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>kirk-to-enterprise-lb</string>
+	</dict>
+	<key>Kirk: Ahead Warp Two</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Enterprise</string>
+			<string>Technology</string>
+		</array>
+		<key>File</key>
+		<string>ST 057 ahead warp factor two-4</string>
+	</dict>
+	<key>Kirk: Come In</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Communication</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>ST 063 kirk to enterprise come in</string>
+	</dict>
+	<key>McCoy: Out of Your Vulcan Mind</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>ST 057 are you out of your vulcan mind-1</string>
+	</dict>
+	<key>Scotty: Doing Best I Can</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Emergency</string>
+			<string>Technology</string>
+		</array>
+		<key>File</key>
+		<string>ST 069 im doing the best i can-2</string>
+	</dict>
+	<key>Spock: Fascinating</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>ST 056 fascinating-1</string>
+	</dict>
+	<key>Sulu: Phasers Standing By</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Sulu</string>
+			<string>Enterprise</string>
+			<string>Weapons</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 phaser banks standing by sir-3</string>
+	</dict>
+	<key>Sulu: Warp Factor Two</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Sulu</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 064 warp factor 2 sir-2</string>
+	</dict>
+	<key>Uhura Here</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Communication</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 enterprise uhura here-1</string>
+	</dict>
+	<key>Uhura: Hailing All Frequencies</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Communication</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>ST 061 hailing on all frequenciess sir-1</string>
+	</dict>
+	<key>Scotty: A Drink for a Man</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S2E15 Now this is a drink for a man</string>
+	</dict>
+	<key>Scotty: Blow Up</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Warp Engines</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 This thing is going to blow up </string>
+	</dict>
+	<key>Scotty: Ship Blows Up</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>Enterprise</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>4-hours-before-blows-rb</string>
+	</dict>
+	<key>Scotty: Hopeless Pile of Junk</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Technology</string>
+			<string>Emergency</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>S2E06 Hopeless pile of junk</string>
+	</dict>
+	<key>Scotty: Law of Physics</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Technology</string>
+			<string>Humor</string>
+			<string>Enterprise</string>
+			<string>Scotty</string>
+		</array>
+		<key>File</key>
+		<string>S1E04 I can&apos;t change the law of physics</string>
+	</dict>
+	<key>Scotty: Oh, You Poor Lad</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 Oh, you poor lad</string>
+	</dict>
+	<key>Scotty: They’ll Blow Apart</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Technology</string>
+			<string>Emergency</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>S2E06 If I push these impulse engines too hard</string>
+	</dict>
+	<key>Scotty: You&apos;ll be Killed Man</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 You&apos;ll be killed, man</string>
+	</dict>
+	<key>Send My Stomach Down</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E01 Call Chekov and tell him to send my stomach down</string>
+	</dict>
+	<key>SFX: Ship Doors</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>doors-rb</string>
+	</dict>
+	<key>Spock and Scotty: Undignified</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+			<string>Scotty</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E17 I&apos;ll sit on the warp engines myself</string>
+	</dict>
+	<key>Spock: Female Capacity</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S1E24 I have never understood the female capacity</string>
+	</dict>
+	<key>Spock: Flawlessly Logical</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>logical-flawlessly-logical-lb</string>
+	</dict>
+	<key>Spock: Forget</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>S3E19 Forget</string>
+	</dict>
+	<key>Spock: Live Long and Prosper</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>ST 055 live long and prosper-1</string>
+	</dict>
+	<key>Kirk: Obviously Chinese</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Kirk</string>
+			<string>Spock</string>
+			<string>Humor</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>S1E28 My friend is obviously Chinese</string>
+	</dict>
+	<key>Spock: Our Minds are Merging</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>S2E04 Our minds are merging</string>
+	</dict>
+	<key>Spock: Solar System Destroyed</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>S2E06 This entire solar system has been destroyed</string>
+	</dict>
+	<key>Spock: Vulcans Never Bluff</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+		</array>
+		<key>File</key>
+		<string>S2E06 Vulcans never bluff</string>
+	</dict>
+	<key>SFX: Spock’s Viewer</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Scanner</string>
+			<string>Bridge</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Spock&apos;s viewer on the bridge</string>
+	</dict>
+	<key>Sulu: Are You Alright</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array>
+			<string>Sulu</string>
+			<string>Communications</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>is-that-you-captain-lb</string>
+	</dict>
+	<key>SFX: Transporter</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Transporter</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Transporter</string>
+	</dict>
+	<key>SFX: Transporter Dematerialization</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>Transporter</string>
+			<string>Landing Party</string>
+		</array>
+		<key>File</key>
+		<string>transporter-dematerializing-rb</string>
+	</dict>
+	<key>SFX: Tribbles</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Ambience</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>Many Tribbles</string>
+	</dict>
+	<key>Uhura Fed Up</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Communications</string>
+			<string>Humor</string>
+			<string>Bridge Crew</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>S1E01 Mr. Spock, sometimes I think if I hear that word &quot;frequency&quot; once more, I&apos;ll cry</string>
+	</dict>
+	<key>Uhura: Top Priority</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Emergency</string>
+			<string>Communications</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>message-from-starfleet-rb</string>
+	</dict>
+	<key>Uhura: Channels Jammed</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Emergency</string>
+			<string>Communications</string>
+			<string>Bridge Crew</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>S1E22 Communication channels are jammed, Captain</string>
+	</dict>
+	<key>Uhura: He&apos;s Alive</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Enterprise</string>
+			<string>Emergency</string>
+		</array>
+		<key>File</key>
+		<string>S3E09 He&apos;s alive!</string>
+	</dict>
+	<key>Uhura: I&apos;m So Frightened</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Love</string>
+			<string>Fairer Sex</string>
+		</array>
+		<key>File</key>
+		<string>S3E10 I&apos;m so frightened captain</string>
+	</dict>
+	<key>S2 Spock:Vulcan Mind Meld</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Spock</string>
+			<string>Mind Probe</string>
+		</array>
+		<key>File</key>
+		<string>ST 037 captain i suggest the vulcan</string>
+	</dict>
+	<key>SFX: Warp Drive</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>SFX</string>
+			<string>Technology</string>
+			<string>Engine</string>
+			<string>Enterprise</string>
+		</array>
+		<key>File</key>
+		<string>Warp drive</string>
+	</dict>
+	<key>Women of Troyius</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>McCoy</string>
+			<string>Fairer Sex</string>
+			<string>Humor</string>
+		</array>
+		<key>File</key>
+		<string>S3E13 The women are supposed to be very special</string>
+	</dict>
+	<key>Scotty: As Fast as I Can</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Scotty</string>
+			<string>Emergency</string>
+			<string>Technology</string>
+		</array>
+		<key>File</key>
+		<string>ST 059 im working as fast as i can-1</string>
+	</dict>
+	<key>McCoy: Drives Men Wild</key>
+	<dict>
+		<key>File</key>
+		<string>S3E13 The women are supposed to be very special</string>
+	</dict>
+	<key>Uhura: Frequency I&apos;ll Cry</key>
+	<dict>
+		<key>Categories</key>
+		<array>
+			<string>Uhura</string>
+			<string>Bridge Crew</string>
+			<string>Humor</string>
+			<string>Enterprise</string>
+			<string>Communications</string>
+		</array>
+		<key>File</key>
+		<string>S1E01 Mr Spock sometimes I think if I hear that word frequency once more Ill cry</string>
+	</dict>
+	<key>McCoy: Not a Magician</key>
+	<dict>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>S2E12 i&apos;m not a magician</string>
+	</dict>
+	<key>Spock: Vulcan Mind Probe</key>
+	<dict>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>ST 037 captain i suggest the vulcan</string>
+	</dict>
+	<key>McCoy: Child&apos;s Play</key>
+	<dict>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>S3E01 A child could do it</string>
+	</dict>
+	<key>McCoy: His Brain is Gone</key>
+	<dict>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>S3E01 His brain is gone</string>
+	</dict>
+	<key>Scotty: Phaser Set to Kill</key>
+	<dict>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>S3E01 That phaser is set to kill</string>
+	</dict>
+	<key>SFX: Food Synthesizer</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>Food &amp; Drink Synthesizer</string>
+	</dict>
+	<key>SFX: Hand Held Medical Scanner</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>Hand Held Medical Scanner</string>
+	</dict>
+	<key>SFX: Library Computer</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>Library Computer on Bridge</string>
+	</dict>
+	<key>SFX: Incoming Subspace Signal</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>bl-subspace-signal</string>
+	</dict>
+	<key>Kirk of the U.S.S Enterprise</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>left</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>Kirk-This is Captain James Kirk of the USS</string>
+	</dict>
+	<key>Spock: Impulses that Direction</key>
+	<dict>
+		<key>DefaultButton</key>
+		<string>right</string>
+		<key>Categories</key>
+		<array/>
+		<key>File</key>
+		<string>SPOCK - Eps19 - Captain, impulses that direction very weak</string>
+	</dict>
+</dict>
+</plist>

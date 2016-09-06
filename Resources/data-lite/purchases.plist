@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Purchases</key>
+	<array>
+		<dict>
+			<key>Description</key>
+			<string>My Name is Khan: Kirk&apos;s best pickup lines, Spock&apos;s keenest logic, McCoy&apos;s contrary compassion, Scotty&apos;s excited negativity, and all the excitement of battles and warp drive malfunctions: these are the sounds of Star Trek.</string>
+			<key>Image</key>
+			<string>sound pack season 1.png</string>
+			<key>Name</key>
+			<string>Season 1</string>
+			<key>PurchaseID</key>
+			<string>Season1Lite</string>
+			<key>Sounds</key>
+			<array>
+				<string>Scotty: Law of Physics</string>
+				<string>Kirk: Too Beautiful to Ignore</string>
+				<string>Animals, Vicious and Seductive</string>
+				<string>Gorn: Weary of the Chase</string>
+				<string>McCoy: Transporter Phobia</string>
+				<string>Khan: My name is Khan</string>
+				<string>Uhura: Channels Jammed</string>
+				<string>Spock: Female Capacity</string>
+				<string>McCoy: Not a Bricklayer</string>
+				<string>Kirk: Kiss it!</string>
+				<string>Kirk: Obviously Chinese</string>
+				<string>McCoy: Not a psychiatrist</string>
+				<string>Uhura: Frequency I&apos;ll Cry</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>Vulcans Never Bluff: Recall how the second season deepened the characters, drama and humor of Star Trek. Meld minds, the gangster planet, and Spock&apos;s bearded doppelganger - all part of the series&apos; incredible adventure. After all, Vulcans never bluff.</string>
+			<key>Image</key>
+			<string>sound pack season 2.png</string>
+			<key>Name</key>
+			<string>Season 2</string>
+			<key>PurchaseID</key>
+			<string>Season2Lite</string>
+			<key>Sounds</key>
+			<array>
+				<string>McCoy and Scotty: Not an Engineer</string>
+				<string>Kirk: The Captain&apos;s Woman</string>
+				<string>Spock: Our Minds are Merging</string>
+				<string>Spock: Solar System Destroyed</string>
+				<string>Scotty: Hopeless Pile of Junk</string>
+				<string>McCoy: Not a Mechanic</string>
+				<string>Scotty: They’ll Blow Apart</string>
+				<string>Spock: Vulcans Never Bluff</string>
+				<string>McCoy: Crazy Way to Travel</string>
+				<string>Scotty: A Drink for a Man</string>
+				<string>Kirk and Krako: Arrested Behavior</string>
+				<string>McCoy: Not a Magician</string>
+				<string>Spock: Vulcan Mind Probe</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>His brain is gone! Star Trek&apos;s third season firmly establishes forever the Kirk/Spock/McCoy triad, the scale of the Enterprise&apos;s heroics, the richness of the series&apos; philosophy, and the more than likely fate of the Red Shirts. Hear it all.</string>
+			<key>Image</key>
+			<string>sound pack season 3.png</string>
+			<key>Name</key>
+			<string>Season 3</string>
+			<key>PurchaseID</key>
+			<string>Season3Lite</string>
+			<key>Sounds</key>
+			<array>
+				<string>Klingons Kill</string>
+				<string>Uhura: He&apos;s Alive</string>
+				<string>McCoy and Scotty: One Good Slug</string>
+				<string>Chapel: For So Long</string>
+				<string>Uhura: I&apos;m So Frightened</string>
+				<string>McCoy: Drives Men Wild</string>
+				<string>Kirk: The Women on your Planet</string>
+				<string>Spock and Scotty: Undignified</string>
+				<string>Red shirt: A strange woman..</string>
+				<string>Scotty: Oh, You Poor Lad</string>
+				<string>Scotty: Blow Up</string>
+				<string>Scotty: You&apos;ll be Killed Man</string>
+				<string>McCoy: Child&apos;s Play</string>
+				<string>McCoy: His Brain is Gone</string>
+				<string>Scotty: Phaser Set to Kill</string>
+				<string>Spock: Forget</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>I&apos;m a doctor, not an app effect: Hear Bones clarify matters as only he can. Hear Scotty&apos;s brogue make even the worst news fortifying. Hear Kirk battle Klingons and woo women. These sounds are so classic that one can even hear Spock raise an eyebrow.</string>
+			<key>Image</key>
+			<string>sound pack iconic lines.png</string>
+			<key>Name</key>
+			<string>Iconic Phrases</string>
+			<key>PurchaseID</key>
+			<string>IconicPhrasesLite</string>
+			<key>Sounds</key>
+			<array>
+				<string>Sulu: General Quarters</string>
+				<string>Kirk: Captain’s Log</string>
+				<string>Spock: Emotion</string>
+				<string>Uhura: All Frequencies Jammed</string>
+				<string>Spock: Interesting</string>
+				<string>Sulu: Phasers Standing By</string>
+				<string>Chekov: Forty-three thousand</string>
+				<string>Uhura: Hailing All Frequencies</string>
+				<string>Chekov: Aye Captain</string>
+				<string>Chekov: I Can’t Explain It</string>
+				<string>Uhura Here</string>
+				<string>Chekov: Aye Sir</string>
+				<string>Scotty: As Fast as I Can</string>
+				<string>Sulu: Warp Factor Two</string>
+				<string>Kirk Here</string>
+				<string>McCoy: Out of Your Vulcan Mind</string>
+				<string>Kirk: Ahead Warp Two</string>
+				<string>Scotty: Doing Best I Can</string>
+				<string>Spock: Fascinating</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>From transporters to Tribbles, phaser fire to photon torpedoes, here the Communicator provides access to Star Trek&apos;s most thrilling sounds.</string>
+			<key>Image</key>
+			<string>sound pack sfx.png</string>
+			<key>Name</key>
+			<string>Special FX</string>
+			<key>PurchaseID</key>
+			<string>SpecialFXLite</string>
+			<key>Sounds</key>
+			<array>
+				<string>SFX: Affirmative</string>
+				<string>SFX: Computer Working</string>
+				<string>SFX: Bridge Buttons</string>
+				<string>SFX: Garbled Message</string>
+				<string>SFX: Warp Drive</string>
+				<string>SFX: Spock’s Viewer</string>
+				<string>SFX: Photon Torpedos</string>
+				<string>SFX: Phaser Fire Switch</string>
+				<string>SFX: Materialization</string>
+				<string>SFX: Tribbles</string>
+				<string>SFX: Heartbeats</string>
+				<string>SFX: Enterprise Phasers</string>
+				<string>SFX: Bridge Sequence</string>
+				<string>SFX: Bridge Scanner</string>
+				<string>SFX: Alien Planet Surface</string>
+				<string>SFX: Hand Phaser</string>
+				<string>SFX: Transporter</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Description</key>
+			<string>From the sweet sound of opening ship doors, to the responsibility of getting your landing party home, minus one red shirt of course, these included sounds evoke the classic series. Energize with the greatest Star Trek audio. Beam up and Prosper!</string>
+			<key>Image</key>
+			<string>sound pack included.png</string>
+			<key>Name</key>
+			<string>Starter Pack</string>
+			<key>PurchaseID</key>
+			<string>ClassicSoundsLite</string>
+			<key>Sounds</key>
+			<array>
+				<string>Kirk: Space the Final Frontier</string>
+				<string>Kirk: We Need Power</string>
+				<string>Kirk: Do You Read Me</string>
+				<string>Spock: Flawlessly Logical</string>
+				<string>Sulu: Are You Alright</string>
+				<string>Kirk: Two to beam Up</string>
+				<string>Uhura: Top Priority</string>
+				<string>McCoy: He&apos;s dead Jim</string>
+				<string>SFX: Transporter Dematerialization</string>
+				<string>SFX: Boatswain Whistle</string>
+				<string>SFX: Ship Doors</string>
+				<string>Amok Time Fight Music</string>
+				<string>Scotty: Ship Blows Up</string>
+				<string>Kirk: Prepare to Transport</string>
+				<string>Kirk: Energize</string>
+				<string>SFX: Food Synthesizer</string>
+				<string>SFX: Hand Held Medical Scanner</string>
+				<string>SFX: Library Computer</string>
+				<string>SFX: Incoming Subspace Signal</string>
+				<string>Kirk of the U.S.S Enterprise</string>
+				<string>Spock: Impulses that Direction</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Hidden</key>
+			<true/>
+			<key>Description</key>
+			<string></string>
+			<key>Image</key>
+			<string>sound pack included.png</string>
+			<key>Name</key>
+			<string>Included</string>
+			<key>PurchaseID</key>
+			<string></string>
+			<key>Sounds</key>
+			<array>
+				<string>Kirk to Enterprise</string>
+				<string>Spock: Live Long and Prosper</string>
+				<string>SFX: Red Alert</string>
+				<string>McCoy: Not a Coal Miner</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+/* 
+  STComm.strings
+  SpaceRadio
+
+  Created by Ashutosh on 6/6/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"info_text_part1" = "STARFLEET TECHNICAL MANUAL
+COMMUNICATOR FREE VERSION
+OPERATING INSTRUCTIONS
+
+• To disable the in-app ads and enable the dialer, purchase any of the sound packs. The purchase screen is accessible by tapping the Sound icon in the graphical overly at the top of your screen. Once any sound pack is purchased, the FREE version becomes functionally equivalent to the full-price regular app version.
+
+• Open and close the Communicator by flipping the lid open or closed.  You may swipe your finger across, or tap the lid to open or close it.
+
+• Tap the left or right metal buttons at the bottom of the opened Communicator screen to hear the sounds assigned to them.
+
+• Tap the mesh speaker in the opened Communicator screen to activate auto-hail feature.  Once activated, close the Communicator lid and wait five seconds for the auto-hail sequence to begin.
+
+• Tap the center of the opened Communicator screen to display menu icons at the top.  Tap the screen again to hide these menu icons.
+
+• If enabled, tapping the Telephone icon on the main menu overlay will access the Dialer screen.  Please note that the Dialer screen functions only on iPhone and is not intended to work with the iPod touch or iPad.
+
+• Tap the Sound icon in the menu overlay to access the “Sound Packs” and “Settings” tabs.
+
+• From the “Settings” tab in the Sounds screen, you may assign audio to the left or right buttons of the open Communicator screen by tapping the corresponding left or right buttons.  Tap the sound name to listen to that sound clip.
+
+• To rearrange the order in which sounds are played, simply drag and drop them to create the desired sequence in the Settings tab.
+
+• You can purchase additional packs of sounds from the Sound Packs screen.  Tap the Sound Pack name to read a description of the sounds in that pack.  To purchase the pack, tap on the price.  To confirm that you want to purchase it, tap the Buy button.
+
+• If you purchased Sound Packs, but have lost access to those sounds, tap the “Restore Purchases” button below to return them to the list of sounds in the Settings tab.
+
+• To return to the main Communicator screen at any time, tap the Disk icon in the upper-left corner of the screen.
+
+CREDITS & LEGAL
+
+(c) 2012 CBS Interactive Inc.  All Rights Reserved.
+Version 1.0 FREE
+
+Star Trek Communicator, Star Trek and related marks and logos are trademarks of CBS Studios Inc.  CBS and the CBS Eye Design are trademarks of CBS Broadcasting Inc.  All Rights Reserved.";
+
+"info_text_part2" = "For consumer support, please contact us at stcommunicator@cbsinteractive.com
+
+Designed by CBS Interactive & Orion S.G LLC.  Built by Orion S.G. LLC. and Binary Buddha Studio Pvt. Ltd.
+
+CBS INTERACTIVE
+
+SVP and GM, DIGITAL PLATFORMS
+Rob Gelick
+
+DIRECTOR, GAMES
+Erika Winterholler
+
+PROJECT MANAGERS, MOBILE GAMES
+Clayton Stone
+Brittany Sherman
+
+VP MARKETING & CREATIVE SERVICES, ENTERTAINMENT
+David Weiss
+
+DIRECTOR OF CREATIVE SERVICES
+Chris Surette
+
+VICE PRESIDENT, ADVERTISING & OPERATIONS, MOBILE
+Philippe Browning
+
+SENIOR MOTION GRAPHICS DESIGNER
+Filippo Vaccari
+
+QUALITY ASSURANCE LEAD
+Jesse Oveson
+
+QUALITY ASSURANCE
+Steven Loschnig
+Donald Bossett
+
+ORION S.G. MEDIA
+David Daves
+Sherri Rich
+Anton Antokhin";

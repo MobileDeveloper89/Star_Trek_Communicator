@@ -1,0 +1,520 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SpaceRadioAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {765, 481}}";
+			sepNavSelRange = "{552, 0}";
+			sepNavVisRange = "{46, 1030}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1534}}";
+			sepNavSelRange = "{2696, 0}";
+			sepNavVisRange = "{1768, 1128}";
+			sepNavWindowFrame = "{{92, 14}, {1060, 764}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceRadio */ = {
+		activeExec = 0;
+		executables = (
+			6FC75CAA12F1006D00163BD9 /* SpaceRadio */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6FC75CAA12F1006D00163BD9 /* SpaceRadio */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceRadio */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpaceRadio */,
+		);
+		breakpoints = (
+			6F1575F112F105C100067C81 /* MainViewController.m:213 */,
+		);
+		codeSenseManager = 6FC75CC412F100B000163BD9 /* Code sense */;
+		executables = (
+			6FC75CAA12F1006D00163BD9 /* SpaceRadio */,
+		);
+		expressions = (
+			path,
+			soundName,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					648,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317943604;
+			PBXWorkspaceStateSaveDate = 317943604;
+		};
+		perUserProjectItems = {
+			6F030E8E12F36F3600BCAE30 /* PBXTextBookmark */ = 6F030E8E12F36F3600BCAE30 /* PBXTextBookmark */;
+			6F030E9112F36F3600BCAE30 /* PBXTextBookmark */ = 6F030E9112F36F3600BCAE30 /* PBXTextBookmark */;
+			6F030E9212F36F3600BCAE30 /* PBXTextBookmark */ = 6F030E9212F36F3600BCAE30 /* PBXTextBookmark */;
+			6F030E9612F36F6100BCAE30 /* PBXTextBookmark */ = 6F030E9612F36F6100BCAE30 /* PBXTextBookmark */;
+			6F030E9712F36F6100BCAE30 /* PBXTextBookmark */ = 6F030E9712F36F6100BCAE30 /* PBXTextBookmark */;
+			6F030E9812F36F6100BCAE30 /* PBXTextBookmark */ = 6F030E9812F36F6100BCAE30 /* PBXTextBookmark */;
+			6F030EA312F36FBA00BCAE30 /* PBXTextBookmark */ = 6F030EA312F36FBA00BCAE30 /* PBXTextBookmark */;
+			6F030EA412F36FBA00BCAE30 /* PBXTextBookmark */ = 6F030EA412F36FBA00BCAE30 /* PBXTextBookmark */;
+			6F030EA512F36FBA00BCAE30 /* PBXTextBookmark */ = 6F030EA512F36FBA00BCAE30 /* PBXTextBookmark */;
+			6F030EF412F3762400BCAE30 /* PBXTextBookmark */ = 6F030EF412F3762400BCAE30 /* PBXTextBookmark */;
+			6F030EF512F3762400BCAE30 /* PBXTextBookmark */ = 6F030EF512F3762400BCAE30 /* PBXTextBookmark */;
+			6F030EF612F3762400BCAE30 /* PBXTextBookmark */ = 6F030EF612F3762400BCAE30 /* PBXTextBookmark */;
+			6F030F0E12F37A1700BCAE30 /* PBXTextBookmark */ = 6F030F0E12F37A1700BCAE30 /* PBXTextBookmark */;
+			6F030F0F12F37A1700BCAE30 /* PBXTextBookmark */ = 6F030F0F12F37A1700BCAE30 /* PBXTextBookmark */;
+			6F030F1012F37A1700BCAE30 /* PBXTextBookmark */ = 6F030F1012F37A1700BCAE30 /* PBXTextBookmark */;
+			6F030F2012F38B6A00BCAE30 /* PBXTextBookmark */ = 6F030F2012F38B6A00BCAE30 /* PBXTextBookmark */;
+			6F030F2112F38B6A00BCAE30 /* PBXTextBookmark */ = 6F030F2112F38B6A00BCAE30 /* PBXTextBookmark */;
+			6F1147D412F233790096E206 = 6F1147D412F233790096E206 /* PBXBookmark */;
+			6F1147DF12F2341A0096E206 = 6F1147DF12F2341A0096E206 /* PBXTextBookmark */;
+			6F1147E012F2341A0096E206 = 6F1147E012F2341A0096E206 /* PBXTextBookmark */;
+			6F1147EC12F2341A0096E206 = 6F1147EC12F2341A0096E206 /* PBXTextBookmark */;
+			6F11485612F243A70096E206 = 6F11485612F243A70096E206 /* PBXTextBookmark */;
+			6F11485712F243A70096E206 = 6F11485712F243A70096E206 /* PBXTextBookmark */;
+			6F11485812F243A70096E206 = 6F11485812F243A70096E206 /* PBXTextBookmark */;
+			6F11485912F243A70096E206 = 6F11485912F243A70096E206 /* PBXTextBookmark */;
+			6F11487512F281850096E206 = 6F11487512F281850096E206 /* PBXTextBookmark */;
+			6F11487612F281850096E206 = 6F11487612F281850096E206 /* PBXTextBookmark */;
+			6F11487712F281850096E206 = 6F11487712F281850096E206 /* PBXTextBookmark */;
+			6F11487812F281850096E206 = 6F11487812F281850096E206 /* PBXTextBookmark */;
+			6F15761C12F1087A00067C81 = 6F15761C12F1087A00067C81 /* PlistBookmark */;
+		};
+		sourceControlManager = 6FC75CC312F100B000163BD9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6F030E8E12F36F3600BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 2082;
+	};
+	6F030E9112F36F3600BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 476";
+		rLen = 0;
+		rLoc = 12725;
+		rType = 0;
+		vrLen = 1040;
+		vrLoc = 13261;
+	};
+	6F030E9212F36F3600BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 80";
+		rLen = 0;
+		rLoc = 1960;
+		rType = 0;
+		vrLen = 1259;
+		vrLoc = 1612;
+	};
+	6F030E9612F36F6100BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 2072;
+	};
+	6F030E9712F36F6100BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 399;
+		rType = 0;
+		vrLen = 777;
+		vrLoc = 0;
+	};
+	6F030E9812F36F6100BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 526";
+		rLen = 0;
+		rLoc = 13870;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 13261;
+	};
+	6F030EA312F36FBA00BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 2072;
+	};
+	6F030EA412F36FBA00BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 104";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 1763;
+	};
+	6F030EA512F36FBA00BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 526";
+		rLen = 0;
+		rLoc = 13870;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 13261;
+	};
+	6F030EF412F3762400BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 109";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 2037;
+	};
+	6F030EF512F3762400BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 117";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1696;
+		vrLoc = 1959;
+	};
+	6F030EF612F3762400BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 526";
+		rLen = 0;
+		rLoc = 13870;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 13261;
+	};
+	6F030F0E12F37A1700BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 123";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1141;
+		vrLoc = 1797;
+	};
+	6F030F0F12F37A1700BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 117";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 404;
+	};
+	6F030F1012F37A1700BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 526";
+		rLen = 0;
+		rLoc = 13870;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 13261;
+	};
+	6F030F2012F38B6A00BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 102";
+		rLen = 0;
+		rLoc = 2696;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 1768;
+	};
+	6F030F2112F38B6A00BCAE30 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 526";
+		rLen = 0;
+		rLoc = 13870;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 13261;
+	};
+	6F1147D412F233790096E206 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+	};
+	6F1147DF12F2341A0096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpaceRadioAppDelegate.h */;
+		name = "SpaceRadioAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 552;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 46;
+	};
+	6F1147E012F2341A0096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA938B20F947F60006C4DA1 /* PhoneViewController.m */;
+		name = "PhoneViewController.m: 12";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 0;
+	};
+	6F1147EC12F2341A0096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 102";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 1357;
+		vrLoc = 1633;
+	};
+	6F1147FD12F234800096E206 /* MainViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MainViewController.h;
+		path = /Users/PD/Desktop/SpaceRadio/Classes/MainViewController.h;
+		sourceTree = "<absolute>";
+	};
+	6F11485612F243A70096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA93BDA0F94D267006C4DA1 /* TouchableImageView.h */;
+		name = "TouchableImageView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	6F11485712F243A70096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA93BDB0F94D267006C4DA1 /* TouchableImageView.m */;
+		name = "TouchableImageView.m: 17";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 142;
+	};
+	6F11485812F243A70096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F1147FD12F234800096E206 /* MainViewController.h */;
+		name = "MainViewController.h: 63";
+		rLen = 0;
+		rLoc = 2008;
+		rType = 0;
+		vrLen = 1153;
+		vrLoc = 1272;
+	};
+	6F11485912F243A70096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 494";
+		rLen = 0;
+		rLoc = 12971;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 7721;
+	};
+	6F11487512F281850096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 105";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 962;
+		vrLoc = 1958;
+	};
+	6F11487612F281850096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 96";
+		rLen = 0;
+		rLoc = 2937;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 2082;
+	};
+	6F11487712F281850096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		name = "MainViewController.m: 476";
+		rLen = 0;
+		rLoc = 12725;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 13299;
+	};
+	6F11487812F281850096E206 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceRadioAppDelegate.m */;
+		name = "SpaceRadioAppDelegate.m: 80";
+		rLen = 0;
+		rLoc = 1960;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 1704;
+	};
+	6F1575F112F105C100067C81 /* MainViewController.m:213 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BDA939340F948A30006C4DA1 /* MainViewController.m */;
+		functionName = "-startPlayback:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 213;
+		location = StarRadio;
+		modificationTime = 317786235.3062569;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6F15761C12F1087A00067C81 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C290EFAF10A194300054B6C1 /* sounds.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/PD/Desktop/SpaceRadio/sounds.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6FC75CAA12F1006D00163BD9 /* SpaceRadio */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceRadio;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6FC75CC312F100B000163BD9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6FC75CC412F100B000163BD9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BDA938B20F947F60006C4DA1 /* PhoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1587, 4082}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 817}";
+		};
+	};
+	BDA939330F948A30006C4DA1 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1040}}";
+			sepNavSelRange = "{1999, 0}";
+			sepNavVisRange = "{1112, 499}";
+		};
+	};
+	BDA939340F948A30006C4DA1 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 8866}}";
+			sepNavSelRange = "{13870, 0}";
+			sepNavVisRange = "{13261, 1012}";
+			sepNavWindowFrame = "{{-23, 0}, {842, 578}}";
+		};
+	};
+	BDA93BDA0F94D267006C4DA1 /* TouchableImageView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {765, 412}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 264}";
+		};
+	};
+	BDA93BDB0F94D267006C4DA1 /* TouchableImageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 793}}";
+			sepNavSelRange = "{377, 0}";
+			sepNavVisRange = "{142, 1008}";
+		};
+	};
+	C290EFAA10A1941A0054B6C1 /* SoundList.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {783, 1196}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 887}";
+			sepNavWindowFrame = "{{19, 0}, {842, 778}}";
+		};
+	};
+	C290EFAF10A194300054B6C1 /* sounds.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 0}, {842, 778}}";
+		};
+	};
+}
